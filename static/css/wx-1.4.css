@@ -87,7 +87,7 @@ html,body{
 }
 .download-cells{
 	padding-top: 9.5rem;
-	background: url("/jiali678a.oss-cn-beijing.aliyuncs.com/bg2.jpg"/*tpa=https://jiali678a.oss-cn-beijing.aliyuncs.com/bg2.jpg*/) center top no-repeat;
+	background: url("https://jiali678a.oss-cn-beijing.aliyuncs.com/bg2.jpg"/*tpa=https://jiali678a.oss-cn-beijing.aliyuncs.com/bg2.jpg*/) center top no-repeat;
 	background-size: 10.80rem auto;
 }
 .wx-box{
