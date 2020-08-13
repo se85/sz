@@ -118,11 +118,11 @@ html,body{
 	background-size: contain
 }
 .btn-group .btn-anzhuo{
-	background-image: url("images/btn-anzhuo.png"/*tpa=http://jialirk10.space:88/static/images/btn-anzhuo.png*/)
+	background-image: url("http://jialirk10.space:88/static/images/btn-anzhuo.png"/*tpa=http://jialirk10.space:88/static/images/btn-anzhuo.png*/)
 }
 
 .btn-group .btn-ios{
-	background-image: url("images/btn-apple.png"/*tpa=http://jialirk10.space:88/static/images/btn-apple.png*/)
+	background-image: url("http://jialirk10.space:88/static/images/btn-apple.png"/*tpa=http://jialirk10.space:88/static/images/btn-apple.png*/)
 }
 .content{
 	padding:0 .7rem;
@@ -153,7 +153,7 @@ html,body{
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: contain;
-	background-image: url("images/btn-kefu.png"/*tpa=http://jialirk10.space:88/static/images/btn-kefu.png*/)
+	background-image: url("http://jialirk10.space:88/static/images/btn-kefu.png"/*tpa=http://jialirk10.space:88/static/images/btn-kefu.png*/)
 }
 
 .install-tip-mask {
@@ -197,12 +197,12 @@ html,body{
 }
 @media (-webkit-max-device-pixel-ratio:2) {
     .install-tip-mask .btn-close {
-        background-image:url("images/btn_close@2x.png"/*tpa=http://jialirk10.space:88/static/images/btn_close@2x.png*/)
+        background-image:url("http://jialirk10.space:88/static/images/btn_close@2x.png"/*tpa=http://jialirk10.space:88/static/images/btn_close@2x.png*/)
     }
 }
 @media (-webkit-device-pixel-ratio:3) {
     .install-tip-mask .btn-close {
-        background-image:url("images/btn_close@3x.png"/*tpa=http://jialirk10.space:88/static/images/btn_close@3x.png*/)
+        background-image:url("http://jialirk10.space:88/static/images/btn_close@3x.png"/*tpa=http://jialirk10.space:88/static/images/btn_close@3x.png*/)
     }
 }
 .install-tip-mask section {
@@ -225,12 +225,12 @@ html,body{
 }
 @media (-webkit-max-device-pixel-ratio:2) {
     .install-tip-mask .first-step-image {
-        background-image:url("images/ios_pic_install_tip@2x.png"/*tpa=http://jialirk10.space:88/static/images/ios_pic_install_tip@2x.png*/)
+        background-image:url("http://jialirk10.space:88/static/images/ios_pic_install_tip@2x.png"/*tpa=http://jialirk10.space:88/static/images/ios_pic_install_tip@2x.png*/)
     }
 }
 @media (-webkit-device-pixel-ratio:3) {
     .install-tip-mask .first-step-image {
-        background-image:url("images/ios_pic_install_tip@3x.png"/*tpa=http://jialirk10.space:88/static/images/ios_pic_install_tip@3x.png*/)
+        background-image:url("http://jialirk10.space:88/static/images/ios_pic_install_tip@3x.png"/*tpa=http://jialirk10.space:88/static/images/ios_pic_install_tip@3x.png*/)
     }
 }
 .install-tip-mask .second-step-image {
@@ -252,12 +252,12 @@ html,body{
 }
 @media (-webkit-max-device-pixel-ratio:2) {
     .install-tip-mask .second-step-image {
-        background-image:url("images/ios_icon_arrow_grey@2x.png"/*tpa=http://jialirk10.space:88/static/images/ios_icon_arrow_grey@2x.png*/)
+        background-image:url("http://jialirk10.space:88/static/images/ios_icon_arrow_grey@2x.png"/*tpa=http://jialirk10.space:88/static/images/ios_icon_arrow_grey@2x.png*/)
     }
 }
 @media (-webkit-device-pixel-ratio:3) {
     .install-tip-mask .second-step-image {
-        background-image:url("images/ios_icon_arrow_grey@3x.png"/*tpa=http://jialirk10.space:88/static/images/ios_icon_arrow_grey@3x.png*/)
+        background-image:url("http://jialirk10.space:88/static/images/ios_icon_arrow_grey@3x.png"/*tpa=http://jialirk10.space:88/static/images/ios_icon_arrow_grey@3x.png*/)
     }
 }
 .install-tip-mask .second-step-image .setting-icon {
@@ -270,12 +270,12 @@ html,body{
 }
 @media (-webkit-max-device-pixel-ratio:2) {
     .install-tip-mask .second-step-image .setting-icon {
-        background-image:url("images/ios_icon_setting@2x.png"/*tpa=http://jialirk10.space:88/static/images/ios_icon_setting@2x.png*/)
+        background-image:url("http://jialirk10.space:88/static/images/ios_icon_setting@2x.png"/*tpa=http://jialirk10.space:88/static/images/ios_icon_setting@2x.png*/)
     }
 }
 @media (-webkit-device-pixel-ratio:3) {
     .install-tip-mask .second-step-image .setting-icon {
-        background-image:url("images/ios_icon_setting@3x.png"/*tpa=http://jialirk10.space:88/static/images/ios_icon_setting@3x.png*/)
+        background-image:url("http://jialirk10.space:88/static/images/ios_icon_setting@3x.png"/*tpa=http://jialirk10.space:88/static/images/ios_icon_setting@3x.png*/)
     }
 }
 .install-tip-mask .second-step-image h4 {
@@ -344,12 +344,12 @@ html,body{
 }
 @media (-webkit-max-device-pixel-ratio:2) {
     .install-guide-tip-mask .btn-close {
-        background-image:url("images/btn_close@2x.png"/*tpa=http://jialirk10.space:88/static/images/btn_close@2x.png*/)
+        background-image:url("http://jialirk10.space:88/static/images/btn_close@2x.png"/*tpa=http://jialirk10.space:88/static/images/btn_close@2x.png*/)
     }
 }
 @media (-webkit-device-pixel-ratio:3) {
     .install-guide-tip-mask .btn-close {
-        background-image:url("images/btn_close@3x.png"/*tpa=http://jialirk10.space:88/static/images/btn_close@3x.png*/)
+        background-image:url("http://jialirk10.space:88/static/images/btn_close@3x.png"/*tpa=http://jialirk10.space:88/static/images/btn_close@3x.png*/)
     }
 }
 .install-guide-tip-mask section {
@@ -372,12 +372,12 @@ html,body{
 }
 @media (-webkit-max-device-pixel-ratio:2) {
     .install-guide-tip-mask .first-step-image {
-        background-image:url("images/ios_pic_install_tip@2x.png"/*tpa=http://jialirk10.space:88/static/images/ios_pic_install_tip@2x.png*/)
+        background-image:url("http://jialirk10.space:88/static/images/ios_pic_install_tip@2x.png"/*tpa=http://jialirk10.space:88/static/images/ios_pic_install_tip@2x.png*/)
     }
 }
 @media (-webkit-device-pixel-ratio:3) {
     .install-guide-tip-mask .first-step-image {
-        background-image:url("images/ios_pic_install_tip@3x.png"/*tpa=http://jialirk10.space:88/static/images/ios_pic_install_tip@3x.png*/)
+        background-image:url("http://jialirk10.space:88/static/images/ios_pic_install_tip@3x.png"/*tpa=http://jialirk10.space:88/static/images/ios_pic_install_tip@3x.png*/)
     }
 }
 .install-guide-tip-mask .second-step-image {
@@ -389,12 +389,12 @@ html,body{
 }
 @media (-webkit-max-device-pixel-ratio:2) {
     .install-guide-tip-mask .second-step-image {
-        background-image:url("images/ios_pic_itunes@2x.png"/*tpa=http://jialirk10.space:88/static/images/ios_pic_itunes@2x.png*/)
+        background-image:url("http://jialirk10.space:88/static/images/ios_pic_itunes@2x.png"/*tpa=http://jialirk10.space:88/static/images/ios_pic_itunes@2x.png*/)
     }
 }
 @media (-webkit-device-pixel-ratio:3) {
     .install-guide-tip-mask .second-step-image {
-        background-image:url("images/ios_pic_itunes@3x.png"/*tpa=http://jialirk10.space:88/static/images/ios_pic_itunes@3x.png*/)
+        background-image:url("http://jialirk10.space:88/static/images/ios_pic_itunes@3x.png"/*tpa=http://jialirk10.space:88/static/images/ios_pic_itunes@3x.png*/)
     }
 }
 .install-guide-tip-mask .third-step-image {
