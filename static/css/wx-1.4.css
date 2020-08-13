@@ -118,11 +118,11 @@ html,body{
 	background-size: contain
 }
 .btn-group .btn-anzhuo{
-	background-image: url("/static/images/btn-anzhuo.png"/*tpa=http://jialirk10.space:88/static/images/btn-anzhuo.png*/)
+	background-image: url("http://jialirk10.space:88/static/images/btn-anzhuo.png"/*tpa=http://jialirk10.space:88/static/images/btn-anzhuo.png*/)
 }
 
 .btn-group .btn-ios{
-	background-image: url("/static/images/btn-apple.png"/*tpa=http://jialirk10.space:88/static/images/btn-apple.png*/)
+	background-image: url("http://jialirk10.space:88/static/images/btn-apple.png"/*tpa=http://jialirk10.space:88/static/images/btn-apple.png*/)
 }
 .content{
 	padding:0 .7rem;
@@ -153,7 +153,7 @@ html,body{
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: contain;
-	background-image: url("/static/images/btn-kefu.png"/*tpa=http://jialirk10.space:88/static/images/btn-kefu.png*/)
+	background-image: url("http://jialirk10.space:88/static/images/btn-kefu.png"/*tpa=http://jialirk10.space:88/static/images/btn-kefu.png*/)
 }
 
 .install-tip-mask {
