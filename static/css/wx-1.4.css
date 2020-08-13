@@ -118,11 +118,11 @@ html,body{
 	background-size: contain
 }
 .btn-group .btn-anzhuo{
-	background-image: url("http://jialirk10.space:88/static/images/btn-anzhuo.png"/*tpa=http://jialirk10.space:88/static/images/btn-anzhuo.png*/)
+	background-image: url("static/images/btn-anzhuo.png"/*tpa=http://jialirk10.space:88/static/images/btn-anzhuo.png*/)
 }
 
 .btn-group .btn-ios{
-	background-image: url("http://jialirk10.space:88/static/images/btn-apple.png"/*tpa=http://jialirk10.space:88/static/images/btn-apple.png*/)
+	background-image: url("static/images/btn-apple.png"/*tpa=http://jialirk10.space:88/static/images/btn-apple.png*/)
 }
 .content{
 	padding:0 .7rem;
